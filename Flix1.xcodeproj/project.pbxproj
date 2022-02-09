@@ -115,7 +115,6 @@
 				2ACF203A5EFDAE80DEF898FB /* Pods-Flix1Tests.debug.xcconfig */,
 				5AC8A809FA2C7E8C26A7ABA0 /* Pods-Flix1Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -604,6 +603,7 @@
 				DEVELOPMENT_TEAM = BV7ZV935J7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Flix1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Flix;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -632,6 +632,7 @@
 				DEVELOPMENT_TEAM = BV7ZV935J7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Flix1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Flix;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
