@@ -183,7 +183,7 @@
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="MovieGridCell" id="EII-kJ-MZM" customClass="MovieGridCell" customModule="Flix1" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="0.0" width="194" height="257"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="zwh-nO-nOV" customClass="UIImageView">
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" insetsLayoutMarginsFromSafeArea="NO" id="zwh-nO-nOV" customClass="UIImageView">
                                             <rect key="frame" x="0.0" y="0.0" width="194" height="257"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
